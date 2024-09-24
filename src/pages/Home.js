@@ -5,7 +5,7 @@ import React from 'react'
 function Home() {
   return (
     <>
-  <div>Hello g</div>
+  <div>Hello This is home</div>
    
    
     
